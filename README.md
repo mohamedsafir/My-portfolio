@@ -67,8 +67,8 @@ git clone https://github.com/yourusername/safir-portfolio.git
 Feel free to reach out for collaboration or project discussions!
 
 - **Website Contact Form**: [Visit here](https://safirportfolio.netlify.app/#contact)
-- **Email**: your-email@example.com
-- **LinkedIn / Instagram / GitHub**: (Add your links if needed)
+- **Email**: freelancersafir@gmail.com
+- **LinkedIn / Instagram / GitHub**: https://www.linkedin/in/mohamedsafir
 
 ---
 
