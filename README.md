@@ -68,7 +68,7 @@ Feel free to reach out for collaboration or project discussions!
 
 - **Website Contact Form**: [Visit here](https://safirportfolio.netlify.app/#contact)
 - **Email**: freelancersafir@gmail.com
-- **LinkedIn / Instagram / GitHub**: https://www.linkedin/in/mohamedsafir
+- **LinkedIn / Instagram / GitHub**: www.linkedin.com/in/mohamed-safir
 
 ---
 
